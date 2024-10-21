@@ -4,8 +4,13 @@ Hey, I'm Jazim an Experienced Web and Mobile Developer, with a track record of 5
 Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html&perline=6)
+![My Skills](https://skillicons.dev/icons?i=wordpress,react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html&perline=6)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=wordpress,react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html" />
+  </a>
+</p>
 
 ## Git Overview
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jazimfarjad&show_icons=true" alt="jazimfarjad" />
