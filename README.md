@@ -5,13 +5,13 @@ Let's connect to explore how my expertise can help your ventures thrive.
 
 ## My Skills
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=wordpress,react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html" />
   </a>
 </p>
 
 ## Git Overview
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jazimfarjad&show_icons=true" alt="jazimfarjad" />
+<img src="https://github-readme-stats.vercel.app/api?username=jazimfarjad&show_icons=true" alt="jazimfarjad" />
 
 
 ## Get-in Touch
