@@ -4,7 +4,7 @@ Hey, I'm Jazim an Experienced Web and Mobile Developer, with a track record of 5
 Let's connect to explore how my expertise can help your ventures thrive.
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=wordpress,react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html&perline=6)
+![My Skills]
 
 <p align="center">
   <a href="https://skillicons.dev">
