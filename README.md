@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jazim Farjad (jazimfarjad)
+Hey, I'm Jazim an Experienced Web and Mobile Developer, with a track record of 5+ years in the industry. Proficient in React, React Native, Redux, NextJS, Typescript, JavaScript, and Firebase, I have successfully complete more than 50+ Projects and work with various Companies such as interior designers, Realstate companies, and more, of over 100+ satisfied clients.
 
-<!--
-**jazimfarjad/jazimfarjad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's connect to explore how my expertise can help your ventures thrive.
 
-Here are some ideas to get you started:
+## Skills
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,ts,redux,sass,bootstrap,netlify,css,html)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Git Overview
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jazimfarjad&show_icons=true" alt="jazimfarjad" />
+
+
+## Get-in Touch
+
+[![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jazimfarjad)
