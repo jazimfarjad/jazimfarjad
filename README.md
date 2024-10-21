@@ -17,4 +17,4 @@ Let's connect to explore how my expertise can help your ventures thrive.
 ## Get-in Touch
 
 [![My linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jazimfarjad)
-[![My Upwork](https://skillicons.dev/icons?i=upwork)](https://www.upwork.com/freelancers/jazimfarjad)
+[![My Upwork](https://skillicons.dev/icons?i=facebook)](https://www.upwork.com/freelancers/jazimfarjad)
